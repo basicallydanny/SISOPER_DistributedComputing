@@ -21,6 +21,8 @@ Ejercicio realizado por Juan José Aguado, Emmanuel Collazos y Daniela Gómez.
 
 ##### Tabla de Contenidos
 [Objetivos](#objet)  
+[Herramientas](#her)  
+[Desarrollo](#des)  
 
 
 
@@ -34,7 +36,18 @@ Ejercicio realizado por Juan José Aguado, Emmanuel Collazos y Daniela Gómez.
 * El estudiante estará en la capacidad de hacer el despliegue de una aplicación que se ejecute sobre un ambiente de computación distribuida.
 
 ## Herramientas Utilizadas
+<a name="her"></a>
 
-* 
+
+
+<!-- ROADMAP -->
+## Desarrollo
+<a name="des"></a>
+
+- [x] Instalar Virtual Box
+- [x] Crear Maquinas Virtuales en Linux (Ubuntu)
+- [x] Instalación del servidor web de Apache
+- [ ] Despliegue y ejecución de aplicación basado en ‘docker-compose’
+- [ ] Instalación y configuración de Nginx como ‘proxy inverso’
 
 <p align="right">(<a href="#readme-top">Subir</a>)</p>
