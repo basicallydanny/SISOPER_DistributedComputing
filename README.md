@@ -47,6 +47,7 @@ Ejercicio realizado por Juan José Aguado, Emmanuel Collazos y Daniela Gómez.
 - [x] Instalar Virtual Box
 - [x] Crear Maquinas Virtuales en Linux (Ubuntu)
 - [x] Instalación del servidor web de Apache
+- [x] Instalación de docker y el plug-in de ‘docker-compose’
 - [ ] Despliegue y ejecución de aplicación basado en ‘docker-compose’
 - [ ] Instalación y configuración de Nginx como ‘proxy inverso’
 
