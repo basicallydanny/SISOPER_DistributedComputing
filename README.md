@@ -48,7 +48,8 @@ Ejercicio realizado por Juan José Aguado, Emmanuel Collazos y Daniela Gómez.
 - [x] Crear Maquinas Virtuales en Linux (Ubuntu)
 - [x] Instalación del servidor web de Apache
 - [x] Instalación de docker y el plug-in de ‘docker-compose’
-- [ ] Despliegue y ejecución de aplicación basado en ‘docker-compose’
+- [x] Despliegue y ejecución de aplicación basado en ‘docker-compose’
+- [x] Se confirma la conectividad entre maquinas virtuales.
 - [ ] Instalación y configuración de Nginx como ‘proxy inverso’
 
 <p align="right">(<a href="#readme-top">Subir</a>)</p>
