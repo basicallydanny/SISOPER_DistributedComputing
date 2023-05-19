@@ -22,6 +22,7 @@ Ejercicio realizado por Juan José Aguado, Emmanuel Collazos y Daniela Gómez.
 ##### Tabla de Contenidos
 [Objetivos](#objet)  
 [Herramientas](#her)  
+[Dificultades](#dif)  
 [Desarrollo](#des)  
 
 
@@ -37,7 +38,17 @@ Ejercicio realizado por Juan José Aguado, Emmanuel Collazos y Daniela Gómez.
 
 ## Herramientas Utilizadas
 <a name="her"></a>
+- https://www.youtube.com/watch?v=Nx0Yon1vylY
+- https://docs.docker.com/compose/install/
+- https://www.youtube.com/watch?v=rvwYzs6IMog
 
+
+## Dificultades
+<a name="dif"></a>
+- Partición de la memoria.
+- Conexión entre servidores.
+- Permisos de administrador para instalación.
+- Selección de puertos. 
 
 
 <!-- ROADMAP -->
@@ -50,6 +61,7 @@ Ejercicio realizado por Juan José Aguado, Emmanuel Collazos y Daniela Gómez.
 - [x] Instalación de docker y el plug-in de ‘docker-compose’
 - [x] Despliegue y ejecución de aplicación basado en ‘docker-compose’
 - [x] Se confirma la conectividad entre maquinas virtuales.
-- [ ] Instalación y configuración de Nginx como ‘proxy inverso’
+- [x] Instalación y configuración de Nginx como ‘proxy inverso’
+- [x] Implemetación y conexión a través de Nginx.
 
 <p align="right">(<a href="#readme-top">Subir</a>)</p>
