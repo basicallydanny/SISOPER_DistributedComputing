@@ -15,7 +15,7 @@ Ejercicio realizado por Juan José Aguado, Emmanuel Collazos y Daniela Gómez.
     <br />
     <a href="Instrucciones.pdf">Enunciado</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Reporte Final PDF</a>
+    <a href="Informe Sisoper.pdf">Reporte Final PDF</a>
   </p>
 </div>
 
